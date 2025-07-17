@@ -1,5 +1,5 @@
 Отличная основа! Давайте значительно улучшим ваш README, добавив недостающие элементы и структурировав информацию. Вот оптимизированная версия с пояснениями изменений:
-# Atlas · [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/hse-atlas/application)
+# Atlas · [![MIT License](LICENSE.md) [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/hse-atlas/application)
 
 **Atlas** — централизованная платформа для управления OAuth-интеграциями, позволяющая администраторам легко добавлять авторизацию в свои проекты через единый сервис.
 
