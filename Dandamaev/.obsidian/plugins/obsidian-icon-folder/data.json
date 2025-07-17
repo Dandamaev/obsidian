@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasMap",
+      "BoBxTask",
+      "FasTrash",
+      "FasBusinessTime",
+      "FasDatabase"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Tasks": "BoBxTask",
+  "100 Projects": "FasBusinessTime",
+  "200 Areas": "FasMap",
+  "300 Resources": "FasDatabase",
+  "400 Archives": "FasTrash"
+}
