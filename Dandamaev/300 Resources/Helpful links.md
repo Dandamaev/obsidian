@@ -1,0 +1,3 @@
+- [🐘 Коллекция готовых SQL запросов для PostgreSQL](https://github.com/rin-nas/postgresql-patterns-library);
+- [Web development Cheats](https://github.com/AppLoidx/Web-Development-Cheats);
+- 

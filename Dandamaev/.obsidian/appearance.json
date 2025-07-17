@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "custom-background",
+    "custom-rainbow-colors",
+    "notion-cards"
+  ],
+  "theme": "system",
+  "nativeMenus": false,
+  "showRibbon": true
+}

@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "50b8d346f5afa5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Areas/220 Improvement/Git Course.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Course"
+            }
+          },
+          {
+            "id": "4380f0c0e1b1a62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Areas/210 University/Крусовая/SMART.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMART"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c5d6e44b2e66ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ff3d013cbe7761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef9c60131c0a7367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d49cba809ef2bcf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "32c6a0d816f36b5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "89fb9b58c890274f",
+    "type": "split",
+    "children": [
+      {
+        "id": "078fd46b01e8be66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f46fc25bf50f2e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "300 Resources/301 Templates/Шаблон для Идей.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Шаблон для Идей"
+            }
+          },
+          {
+            "id": "7a36d53cecc5e18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0c421f58f8fa43c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200 Areas/220 Improvement/Frontend/JavaScript/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "588c4cece866ab60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 Areas/220 Improvement/Frontend/JavaScript/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Index"
+            }
+          },
+          {
+            "id": "17f002d9be070298",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "05547128d405864e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "4380f0c0e1b1a62e",
+  "lastOpenFiles": [
+    "200 Areas/210 University/Крусовая/rLHDRzim3BtxLn2-h2cGxWlT8IY29aqAT1sMOcbwDRI8IJZ8agUFTaMn_pwgYXsxMNOQCEmcyJsAv2EfS-U5zQ5KMVOA9hWYZO3QaoTqsVFX4KQo9Et6mY4yPG37G186GDh3sTdDzN38jduVb5cJPllSMz9hXeAcxm5h64j1wW1S2USUZ9LjM0Ubn5VL-2yj2e-o49vPdahanCigOQ6I.png",
+    "200 Areas/210 University/Крусовая/Курсовая работа.md",
+    "Home.md",
+    "200 Areas/220 Improvement/Git Course.md",
+    "300 Resources/301 Templates/Шаблон для Идей.md",
+    "300 Resources/301 Templates/Шаблон Проекта.md",
+    "300%20Resources/JavaScript  Операции.md",
+    "300 Resources/JavaScript  Операции.md",
+    "300%20Resources",
+    "Clippings/JavaScript  Операции 1.md",
+    "200 Areas/220 Improvement/Frontend/Index.md",
+    "Clippings/JavaScript  Операции.md",
+    "Clippings",
+    "200 Areas/220 Improvement/Frontend/Таска от Кости.md",
+    "300 Resources/GitHub help.md",
+    "200 Areas/220 Improvement/Frontend/JavaScript/Index.md",
+    "300 Resources/Helpful links.md",
+    "300 Resources/302 Tamplates styling/Callout.md",
+    "200 Areas/220 Improvement/Frontend/JavaScript/Переменные.md",
+    "200 Areas/220 Improvement/Frontend/JavaScript/FAQ.md",
+    "Tasks/00 Weekly/Weekly Tasks.md",
+    "0.md",
+    "200.md",
+    "200 Areas/220 Improvement/Frontend/CSS/FAQ.md",
+    "200 Areas/220 Improvement/Frontend/HTML/FAQ.md",
+    "200/220/Fronted/Css/FAQ.md",
+    "200/220/Fronted/Css",
+    "200/220/Fronted",
+    "200/220",
+    "200",
+    "css/Вопросы с ответами.md",
+    "css",
+    "200 Areas/220 Improvement/Frontend/JavaScript",
+    "200 Areas/220 Improvement/Frontend/CSS",
+    "200 Areas/220 Improvement/Frontend/HTML",
+    "200 Areas/210 University/Крусовая/Requirements Document Eng.md",
+    "300 Resources/309 Excalidraw/Drawing 2024-12-11 18.43.04.excalidraw.png",
+    "200 Areas/210 University/Проектирование корпоративной архитектуры/Pasted image 20250122185414.png",
+    "200 Areas/210 University/Проектирование корпоративной архитектуры/Pasted image 20250122185301.png",
+    "200 Areas/210 University/Проектирование корпоративной архитектуры/Pasted image 20250122184401.png",
+    "200 Areas/210 University/Проектирование корпоративной архитектуры/Pasted image 20250122182617.png",
+    "200 Areas/210 University/System analyses/Pasted image 20241218151628.png",
+    "200 Areas/210 University/System analyses/Pasted image 20241218151620.png",
+    "400 Archives/ASD/Pasted image 20241215191832.png",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Journal/Ideaverse/Atlas/Utilities/Images/wolverine-tethered.jpg"
+  ]
+}
